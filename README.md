@@ -1,0 +1,2 @@
+# Kattis
+Some Kattis projects
