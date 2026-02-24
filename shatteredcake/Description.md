@@ -1,4 +1,4 @@
-# Description
+# Description - Shattered Cake
 
 A rectangular cake of width W and length L gets split into N rectangular pieces each with width w_i and length l_i. 
 w_i, l_i are given for each piece. The main width W is given. Task is to find L. 
